@@ -1,1 +1,13 @@
- 
+
+# Arquivos de imagem são binários e não devem ser comparados
+*.png binary
+*.jpg binary
+
+# Arquivos de texto com quebras de linha automáticas
+* text=auto
+
+# Forçar que arquivos Markdown sejam tratados como texto
+*.md text
+
+# Usar mesclagem "union" para arquivos JSON
+*.json merge=union
