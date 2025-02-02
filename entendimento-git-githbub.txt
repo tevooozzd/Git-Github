@@ -6,3 +6,4 @@ code . -> serve para abrir o vscode da onde vc está (rep/arquivo)
 git add <arquivo> -> serve para add arquvios/pastas novas
 git commit -m "mensagem" -> serve para commitar
 git push -> serve para dar push nos commit e ir para o github
+
