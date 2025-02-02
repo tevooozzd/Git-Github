@@ -1,0 +1,8 @@
+Com os conhecimentos e aulas que eu ja tive esses foram os comandos que eu já utilizei até agora
+
+cd <pasta> -> serve para entrar em uma pasta
+.dir -> serve para ver pastas/arquivos e etc pelo terminal
+code . -> serve para abrir o vscode da onde vc está (rep/arquivo) 
+git add <arquivo> -> serve para add arquvios/pastas novas
+git commit -m "mensagem" -> serve para commitar
+git push -> serve para dar push nos commit e ir para o github
