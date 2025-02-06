@@ -1,0 +1,8 @@
+All git comandos that i know and i use i will put here:
+
+Git add . -> It's use to add all the modificate files to staging area 
+Git commit -m "" -> It's use to commit, '-m' it's to incluse a message with the commit
+Git push -> Send all the commits to the the local repo (github and etc)
+Git branch -> It's use to create a new branch
+Git switch branch -> It's use to switch to other branch
+Git merge branch -> It's use to merge the branch in other (x to main)
